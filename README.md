@@ -1,3 +1,11 @@
+## Tutorial starter template
+
+To follow the tutorial, please git clone this branch:
+
+```bash
+git clone https://github.com/machieajones/airbnb-clone-listings.git
+```
+
 ## Notes
 
 - The resources should be used for educational purposes only (not published live) and I am not liable for what you do with them
