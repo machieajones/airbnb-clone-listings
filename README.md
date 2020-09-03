@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/machieajones/airbnb-clone-listings.git airbnb-clone
+git clone https://github.com/machieajones/airbnb-clone-listings.git airbnb-clone && cd airbnb-clone
 ```
 
 to follow from the start of the youtube video:
